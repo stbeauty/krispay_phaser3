@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "concepcions.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3753,
+				"h": 1564
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Concepcion_building1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1251,
+						"h": 782
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					}
+				},
+				{
+					"filename": "Concepcion_building2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1251,
+						"h": 782
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					},
+					"frame": {
+						"x": 0,
+						"y": 782,
+						"w": 1251,
+						"h": 782
+					}
+				},
+				{
+					"filename": "Concepcion_building3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1251,
+						"h": 782
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					},
+					"frame": {
+						"x": 1251,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					}
+				},
+				{
+					"filename": "Concepcion_building4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1251,
+						"h": 782
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					},
+					"frame": {
+						"x": 2502,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					}
+				},
+				{
+					"filename": "Concepcion_building5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1251,
+						"h": 782
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					},
+					"frame": {
+						"x": 1251,
+						"y": 782,
+						"w": 1251,
+						"h": 782
+					}
+				},
+				{
+					"filename": "Concepcion_building6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1251,
+						"h": 782
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1251,
+						"h": 782
+					},
+					"frame": {
+						"x": 2502,
+						"y": 782,
+						"w": 1251,
+						"h": 782
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cdd4cb3946b31e0eb9fea67af84171b5:008e0584908b1037b572ed8cae68937e:97d06a4a7f20006f183524371444c5f2$"
+	}
+}

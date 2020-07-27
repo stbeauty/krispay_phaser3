@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="elements.png">
+	<SubTexture name="item1" x="601" y="752" width="473" height="491" pivotX="236" pivotY="246"/>
+	<SubTexture name="item2" x="5" y="557" width="591" height="418" pivotX="295" pivotY="209"/>
+	<SubTexture name="item3" x="5" y="5" width="783" height="547" pivotX="391" pivotY="274"/>
+	<SubTexture name="item4" x="793" y="5" width="358" height="742" pivotX="179" pivotY="371"/>
+	<SubTexture name="item5" x="5" y="980" width="473" height="469" pivotX="236" pivotY="234"/>
+	<SubTexture name="item6" x="1079" y="752" width="273" height="653" pivotX="0" pivotY="0"/>
+</TextureAtlas>

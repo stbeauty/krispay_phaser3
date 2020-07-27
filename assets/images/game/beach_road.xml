@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beach_road.png">
+	<SubTexture name="road1" x="1186" y="5" width="1176" height="1781" pivotX="0" pivotY="0"/>
+	<SubTexture name="road2" x="5" y="5" width="1176" height="1781" pivotX="0" pivotY="0"/>
+</TextureAtlas>

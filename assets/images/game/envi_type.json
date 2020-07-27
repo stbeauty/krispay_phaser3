@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "envi_type.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1941,
+				"h": 583
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SeConcepcion",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 292
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 292
+					}
+				},
+				{
+					"filename": "SeSantiago",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 292
+					},
+					"frame": {
+						"x": 647,
+						"y": 0,
+						"w": 647,
+						"h": 292
+					}
+				},
+				{
+					"filename": "SeValparaiso",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 292
+					},
+					"frame": {
+						"x": 1294,
+						"y": 0,
+						"w": 647,
+						"h": 292
+					}
+				},
+				{
+					"filename": "DeConcepcion",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 291
+					},
+					"frame": {
+						"x": 0,
+						"y": 292,
+						"w": 647,
+						"h": 291
+					}
+				},
+				{
+					"filename": "DeSantiago",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 291
+					},
+					"frame": {
+						"x": 647,
+						"y": 292,
+						"w": 647,
+						"h": 291
+					}
+				},
+				{
+					"filename": "DeValparaiso",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 647,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 647,
+						"h": 291
+					},
+					"frame": {
+						"x": 1294,
+						"y": 292,
+						"w": 647,
+						"h": 291
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:07723b6787bbdb36bce8c04921728551:c354ce2b0921954b0e5e3b29918aff45:1c63f3bb64596d6a81fae1fe7f7ecf42$"
+	}
+}

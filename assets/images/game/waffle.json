@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "waffle.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 74,
+				"h": 71
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "waffle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 71
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 71
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:68ad678b14ae6406d4cab0a64fb73661:a3b1305ac0ac10c6b9e2dc70667e0bb0:5ff456505c08ee0be8a49c087750c69e$"
+	}
+}

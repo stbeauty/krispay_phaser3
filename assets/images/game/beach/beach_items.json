@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"chair":
+{
+	"frame": {"x":284,"y":509,"w":201,"h":369},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":369},
+	"sourceSize": {"w":201,"h":369}
+},
+"human1":
+{
+	"frame": {"x":5,"y":750,"w":107,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":84},
+	"sourceSize": {"w":107,"h":84}
+},
+"human2":
+{
+	"frame": {"x":5,"y":664,"w":120,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":81},
+	"sourceSize": {"w":120,"h":81}
+},
+"human3":
+{
+	"frame": {"x":130,"y":664,"w":108,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":88},
+	"sourceSize": {"w":108,"h":88}
+},
+"item6":
+{
+	"frame": {"x":5,"y":5,"w":274,"h":654},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":654},
+	"sourceSize": {"w":274,"h":654}
+},
+"tree":
+{
+	"frame": {"x":284,"y":5,"w":249,"h":499},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":499},
+	"sourceSize": {"w":249,"h":499}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.3.25487",
+	"image": "beach_items.png",
+	"format": "RGBA8888",
+	"size": {"w":550,"h":890},
+	"scale": "1"
+}
+}

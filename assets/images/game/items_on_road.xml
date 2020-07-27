@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="items_on_road.png">
+	<SubTexture name="coin" x="210" y="287" width="72" height="74" pivotX="36" pivotY="73"/>
+	<SubTexture name="energy" x="210" y="5" width="98" height="149"/>
+	<SubTexture name="obstacle1" x="210" y="159" width="105" height="123"/>
+	<SubTexture name="obstacle2" x="5" y="5" width="193" height="243"/>
+	<SubTexture name="obstacle3" x="5" y="253" width="200" height="176"/>
+</TextureAtlas>

@@ -1,0 +1,115 @@
+﻿{"frames": [
+
+{
+	"filename": "HomeCharacter",
+	"frame": {"x":5,"y":5,"w":578,"h":679},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":578,"h":679},
+	"sourceSize": {"w":578,"h":679}
+}
+,{
+	"filename": "LogoHome",
+	"frame": {"x":5,"y":813,"w":415,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":415,"h":106},
+	"sourceSize": {"w":415,"h":106}
+}
+,{
+	"filename": "Symbol 62 instance 1",
+	"frame": {"x":1744,"y":854,"w":218,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":29},
+	"sourceSize": {"w":218,"h":29}
+}
+,{
+	"filename": "arrow",
+	"frame": {"x":425,"y":813,"w":17,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":26},
+	"sourceSize": {"w":17,"h":26}
+}
+,{
+	"filename": "beach",
+	"frame": {"x":1305,"y":5,"w":647,"h":392},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":392},
+	"sourceSize": {"w":647,"h":392}
+}
+,{
+	"filename": "beach_selected",
+	"frame": {"x":588,"y":5,"w":712,"h":390},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":390},
+	"sourceSize": {"w":712,"h":390}
+}
+,{
+	"filename": "btnplay",
+	"frame": {"x":1352,"y":797,"w":387,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":104},
+	"sourceSize": {"w":387,"h":104}
+}
+,{
+	"filename": "buttonReplay",
+	"frame": {"x":569,"y":786,"w":387,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":105},
+	"sourceSize": {"w":387,"h":105}
+}
+,{
+	"filename": "city",
+	"frame": {"x":1305,"y":402,"w":647,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":390},
+	"sourceSize": {"w":647,"h":390}
+}
+,{
+	"filename": "city_selected",
+	"frame": {"x":588,"y":400,"w":712,"h":381},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":-4,"w":712,"h":381},
+	"sourceSize": {"w":712,"h":381}
+}
+,{
+	"filename": "continueBtn",
+	"frame": {"x":961,"y":797,"w":386,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":105},
+	"sourceSize": {"w":386,"h":105}
+}
+,{
+	"filename": "logoSelectlevel",
+	"frame": {"x":1744,"y":797,"w":201,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":52},
+	"sourceSize": {"w":201,"h":52}
+}
+,{
+	"filename": "scoreHolder",
+	"frame": {"x":5,"y":689,"w":559,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":559,"h":119},
+	"sourceSize": {"w":559,"h":119}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.3.25487",
+	"image": "items.png",
+	"format": "RGBA8888",
+	"size": {"w":1974,"h":929},
+	"scale": "1"
+}
+}

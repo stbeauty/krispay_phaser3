@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="items1.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="items00" x="236" y="511" width="99" height="127" pivotX="99.9" pivotY="242" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items01" x="576" y="168" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items02" x="466" y="295" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items03" x="570" y="300" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items04" x="454" y="427" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items05" x="558" y="432" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items06" x="340" y="511" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items07" x="444" y="559" width="99" height="127" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items08" x="408" y="5" width="111" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items09" x="121" y="253" width="110" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items10" x="121" y="415" width="110" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items11" x="236" y="187" width="110" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items12" x="236" y="349" width="110" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items13" x="5" y="416" width="111" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items14" x="524" y="5" width="111" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items15" x="351" y="187" width="110" height="157" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items16" x="5" y="253" width="111" height="158" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items17" x="640" y="5" width="110" height="158" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items18" x="466" y="167" width="105" height="123" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items19" x="203" y="5" width="200" height="177" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items20" x="351" y="349" width="98" height="149" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items21" x="5" y="5" width="193" height="243" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items22" x="5" y="578" width="91" height="92" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items23" x="548" y="564" width="91" height="92" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items24" x="101" y="578" width="91" height="92" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+	<SubTexture name="items25" x="644" y="564" width="91" height="92" frameX="0" frameY="0" frameWidth="204" frameHeight="369"/>
+</TextureAtlas>

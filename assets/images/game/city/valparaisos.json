@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "valparaisos.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2412,
+				"h": 1606
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Valparaiso_building1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					}
+				},
+				{
+					"filename": "Valparaiso_building2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					},
+					"frame": {
+						"x": 0,
+						"y": 803,
+						"w": 804,
+						"h": 803
+					}
+				},
+				{
+					"filename": "Valparaiso_building3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					},
+					"frame": {
+						"x": 804,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					}
+				},
+				{
+					"filename": "Valparaiso_building4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					},
+					"frame": {
+						"x": 804,
+						"y": 803,
+						"w": 804,
+						"h": 803
+					}
+				},
+				{
+					"filename": "Valparaiso_building5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					},
+					"frame": {
+						"x": 1608,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					}
+				},
+				{
+					"filename": "Valparaiso_building6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 804,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 804,
+						"h": 803
+					},
+					"frame": {
+						"x": 1608,
+						"y": 803,
+						"w": 804,
+						"h": 803
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f929631b05d75de126de8fbc1cee8e5e:1f1d50e3f5327eaab011f88f481cb401:ba66af80b6350715068c30053a8487f5$"
+	}
+}

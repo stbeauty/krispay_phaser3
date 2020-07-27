@@ -1,0 +1,155 @@
+﻿{"frames": [
+
+{
+	"filename": "coin00",
+	"frame": {"x":5,"y":493,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin01",
+	"frame": {"x":5,"y":625,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin02",
+	"frame": {"x":235,"y":491,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin03",
+	"frame": {"x":235,"y":623,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin04",
+	"frame": {"x":109,"y":653,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin05",
+	"frame": {"x":5,"y":757,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin06",
+	"frame": {"x":109,"y":785,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin07",
+	"frame": {"x":213,"y":755,"w":99,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":65,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin08",
+	"frame": {"x":121,"y":5,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin09",
+	"frame": {"x":237,"y":167,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin10",
+	"frame": {"x":120,"y":329,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin11",
+	"frame": {"x":5,"y":331,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin12",
+	"frame": {"x":235,"y":329,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin13",
+	"frame": {"x":237,"y":5,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin14",
+	"frame": {"x":121,"y":167,"w":111,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin15",
+	"frame": {"x":120,"y":491,"w":110,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin16",
+	"frame": {"x":5,"y":5,"w":111,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}
+,{
+	"filename": "coin17",
+	"frame": {"x":5,"y":168,"w":110,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":112,"h":192},
+	"sourceSize": {"w":112,"h":192}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.3.25487",
+	"image": "coin.png",
+	"format": "RGBA8888",
+	"size": {"w":360,"h":925},
+	"scale": "1"
+}
+}

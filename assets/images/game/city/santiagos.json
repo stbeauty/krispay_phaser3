@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "santiagos.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3798,
+				"h": 1842
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Santiago_building1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1266,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					}
+				},
+				{
+					"filename": "Santiago_building2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1266,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					},
+					"frame": {
+						"x": 0,
+						"y": 921,
+						"w": 1266,
+						"h": 921
+					}
+				},
+				{
+					"filename": "Santiago_building3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1266,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					},
+					"frame": {
+						"x": 1266,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					}
+				},
+				{
+					"filename": "Santiago_building4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1266,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					},
+					"frame": {
+						"x": 1266,
+						"y": 921,
+						"w": 1266,
+						"h": 921
+					}
+				},
+				{
+					"filename": "Santiago_building5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1266,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					},
+					"frame": {
+						"x": 2532,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					}
+				},
+				{
+					"filename": "Santiago_building6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1266,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1266,
+						"h": 921
+					},
+					"frame": {
+						"x": 2532,
+						"y": 921,
+						"w": 1266,
+						"h": 921
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:919cbd57d162b9d91d4b2b2857fb25d7:cfa63e4cd957ab757c8d17089e526634:e3070d27a93631a521a90946d94059e1$"
+	}
+}

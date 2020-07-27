@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"coin_info":
+{
+	"frame": {"x":5,"y":159,"w":477,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":477,"h":149},
+	"sourceSize": {"w":477,"h":149}
+},
+"obstacle_info":
+{
+	"frame": {"x":5,"y":5,"w":478,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":149},
+	"sourceSize": {"w":478,"h":149}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.3.25487",
+	"image": "popup.png",
+	"format": "RGBA8888",
+	"size": {"w":500,"h":320},
+	"scale": "1"
+}
+}

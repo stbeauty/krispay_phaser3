@@ -1,0 +1,12 @@
+{
+  "env": "dev",
+  "port": 80,
+  "gameId": "5e9ff76adc83b9010d39133d",
+  "services": {
+    "gameEngine": "https://api.dev.gamiphy.co"
+  },
+  "analytics": {
+    "gaTrackingId": "UA-161815789-4",
+    "gtmTrackingId": "GTM-PDKNPXR"
+  }
+}
